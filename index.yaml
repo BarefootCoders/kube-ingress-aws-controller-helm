@@ -3,11 +3,20 @@ entries:
   kube-ingress-aws-controller:
   - apiVersion: v1
     appVersion: v0.7.2
-    created: 2018-10-23T22:54:19.533164-04:00
+    created: 2019-01-26T02:38:25.708472-05:00
+    description: kube-ingress-aws-controller Helm chart
+    digest: bc87fd9e7afdf34b06efe1659b4101ea730d36253660ee3e599ef2376fd3083f
+    name: kube-ingress-aws-controller
+    urls:
+    - kube-ingress-aws-controller-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: v0.7.2
+    created: 2019-01-26T02:38:25.708057-05:00
     description: kube-ingress-aws-controller Helm chart
     digest: 6481bd0792e031d82e9049ccd3cd9e6f92f303886d45a85b8e371e4f4985dfb5
     name: kube-ingress-aws-controller
     urls:
     - kube-ingress-aws-controller-0.0.2.tgz
     version: 0.0.2
-generated: 2018-10-23T22:54:19.532616-04:00
+generated: 2019-01-26T02:38:25.707487-05:00
